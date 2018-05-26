@@ -1,0 +1,24 @@
+{
+  "name": "homebridge-viera",
+  "version": "1.0.0",
+  "description": "Viera TV plugin for homebridge: https://github.com/nfarina/homebridge",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": {
+    "name": "tickez"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tickez/homebridge-viera.git"
+  },
+  "dependencies": {
+    "request": "^2.65.0",
+    "http": "^0.0.0"
+  }
+}
