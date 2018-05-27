@@ -1,0 +1,10 @@
+{
+  "accessories": [
+    {
+      "accessory": "Viera",
+      "name": "Livin Room TV",
+      "description": "Panasonic Viera VT50",
+      "ip": "192.168.1.23"
+    }
+  ]
+}
