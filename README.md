@@ -1,5 +1,7 @@
 # Panasonic Viera VT plugin for Homebridge
 
+![npm](https://img.shields.io/npm/dt/homebridge-viera) ![npm](https://img.shields.io/npm/v/homebridge-viera)
+
 A very simple Power On/Off Switch for Panasonic VIERA TVs. 
 
 Power On is not supported by all models, unfortunately. 
